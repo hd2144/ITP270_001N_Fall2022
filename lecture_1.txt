@@ -1,2 +1,47 @@
-ls-to list all the file inside of directory
+ls - to list all the file inside of directory
+pwd - print the working directory
+cd - change the directory
+cd .. - to get back to the previous directory
+mkdir - create a new directory
+touch - create a new file
+clear - to clear the screen
+**tab completion - rather than typing the full directory or filename, you can use tab to complete the name
+
+Manipulation
+
+ls -a - to see all the filesincluding hidden
+ls -l - to see the files in  large format
+ls -t - to see the file order besed on the last edit 
+cat - to see what's inside of the file 
+mv -to move one file from one directory to another
+rm - to remove a file
+ 
+redirection 
+
+> - overwrite a file
+>> - Append somthing with the existing file
+l - to combine commands and use the left  side's standard output
+sort - to sort the file
+uniq - to find the unique lines or words inside of the file
+grep - to search for somthing 
+grep -i - case insensitive search
+sed - to replace a word inside of a file
+
+Environment
+
+nano - editor
+Bash profile
+Alias
+Environmental variables
+PS1 Environment variables
+env
+
+Bash Scripting
+
+Declare and create variable
+How to use the conditionals
+loops
+Input
+Alias 
+
 
