@@ -1,0 +1,9 @@
+ls-to list all the file inside of directory
+pwd - print the working directory
+cd - change the directory
+cd .. - to get back to the previous directory
+mkdir - create a new directory
+touch - create a new file
+clear - to clear the screen 
+**tab completion - rather than typing the fulldirectory or filename,you can use tab top complete the name
+
